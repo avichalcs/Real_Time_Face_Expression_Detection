@@ -2,13 +2,13 @@
 ## OverView
 It is a face expression detectection model that can be used to identify a person's real time emotion. 
 The model can identify 7 kinds of emotion.<br/>
-Sad<br/>
-Angry<br/>
-Disgust<br/>
-Fear<br/>
-Happy<br/>
-Neutral<br/>
-Surprise
+1.Sad<br/>
+2.Angry<br/>
+3.Disgust<br/>
+4.Fear<br/>
+5.Happy<br/>
+6.Neutral<br/>
+7.Surprise
 
 ## Note-
 To avoid error, Please download "haarcascade_frontalface_default.xml" from opencv github profile.<br/>
@@ -38,6 +38,11 @@ time
  ### Normalized image size
  60*60
  
+ ### Sample Grayscale Image
+ <img src="Images/ftest1.jpg" width="500">
+ 
+ 
+ 
  ## Model
  ### Convolutional Neural Network
  Training Set= 25938 Samples<br/>
@@ -51,3 +56,18 @@ time
  Adam<br/>
  Batch Size=32<br/>
  Epochs=50
+ 
+  ## Model Test
+  <img src="Images/webcam4.jpg" width="700"> 
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/webcam1.jpg" width="700">
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/webcam2.jpg" width="700">        
+ <br/>
+ <br/>
+ <br/>
+ <img src="Images/webcam3.jpg" width="700">
