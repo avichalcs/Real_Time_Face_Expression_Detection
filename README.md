@@ -20,7 +20,7 @@ https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset#images.
 ## Dependencies
 Jupyter Notebook
 
-### Packeges
+### Packages
 tensorflow<br/>
 numpy<br/>
 matplotlib<br/>
