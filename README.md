@@ -1,6 +1,6 @@
 # Real_Time_Face_Expression_Detection
 ## OverView
-It is a face expression detectection model that can be used to identify a person's real time emotion. 
+It is a face expression detection model that can be used to identify a person's real time emotion. 
 The model can identify 7 kinds of emotion.<br/>
 1.Sad<br/>
 2.Angry<br/>
